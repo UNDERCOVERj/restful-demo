@@ -1,9 +1,9 @@
 # 操作
 
 ```
-git clone
+git clone git@github.com:UNDERCOVERj/restful-demo.git
 
-cd ..
+cd restful-demo
 
 npm install
 
